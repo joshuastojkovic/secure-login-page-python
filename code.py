@@ -19,7 +19,7 @@ print("_" * 15)
 print("  LOGIN PAGE")
 print("_" * 15)
 
-# asks user for their username and password, if incorrect the program promts the user to re enter till correct, program then continues
+# asks user for their username and password, if incorrect the program prompts the user to re enter till correct, program then continues
 while True:
     try:
         username_check = input("please input your username: ")
